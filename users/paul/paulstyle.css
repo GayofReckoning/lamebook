@@ -1,0 +1,24 @@
+/* I brought my own style sheet, hope you don't mind! */
+
+html {
+  margin:auto;
+  height:100%;
+  width:100%;
+  background-image: linear-gradient(#4bc4f9,#004d73);
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-size:40px;
+  color:#0c2d59;
+  text-align:center;
+}
+
+pre {
+  font-size:30px;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
